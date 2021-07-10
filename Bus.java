@@ -3,7 +3,7 @@ package RentCar;
 //客车类
 public class Bus extends Motoqiche {
 
-    private int zuiWei;     //客车特有座位数
+    private int zuiWei;     //客车座位数
 
     public int getZuiWei() {
         return zuiWei;
